@@ -7,6 +7,8 @@ statistical data from the Apache web server access logs.
 The application was initially developed as an example for one of the 
 ["Pro Python System Administration"](http://apress.com/book/view/9781430226055) book chapters.
 
+You can find more information about the application on [the project website](http://www.sysadminpy.com).
+
 Application structure
 ---------------------
 
